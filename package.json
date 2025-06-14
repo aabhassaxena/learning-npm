@@ -1,0 +1,17 @@
+{
+  "name": "fruitbasketjavascript",
+  "version": "1.0.0",
+  "description": "Fruit BAsket project not using npm",
+  "license": "ISC",
+  "author": "Aabhas Saxena",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.9.0"
+  },
+  "devDependencies": {
+    "buffer": "^6.0.3"
+  }
+}
